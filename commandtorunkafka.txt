@@ -1,0 +1,26 @@
+cd C:\kafka-bin\bin\windows
+
+Zookeeper Start
+.\zookeeper-server-start.bat C:\kafka-bin\config\zookeeper.properties
+
+Kafka Start
+kafka-server-start.bat C:\kafka-bin\config\server.properties
+
+Create Topic
+kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic temp-topic
+
+For version above 2.2 use this command
+kafka-topics.bat --create --bootstrap-server 127.0.0.1:9092 --replication-factor 1 --partitions 1 --topic temp-topic
+
+Start Producer
+kafka-console-producer.bat --broker-list localhost:9092 --topic temp-topic-cf
+
+
+Start Consumer
+kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic temp-topic-cf --from-beginning
+
+Topic in the list
+kafka-topics --zookeeper localhost:2181 --list
+
+
+
