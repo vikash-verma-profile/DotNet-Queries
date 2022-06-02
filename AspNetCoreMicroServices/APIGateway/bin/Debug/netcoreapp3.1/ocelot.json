@@ -1,0 +1,27 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/catalog/findall",
+      "DownstreamScheme": "http",
+      "ServiceName": "catalogService",
+      "UpstreamPathTemplate": "/api/gatway/catalog/findall",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/product/findall",
+      "DownstreamScheme": "http",
+      "ServiceName": "productService",
+      "UpstreamPathTemplate": "/api/gatway/product/findall",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": "8500",
+      "Type": "Consul"
+    }
+  }
+}
