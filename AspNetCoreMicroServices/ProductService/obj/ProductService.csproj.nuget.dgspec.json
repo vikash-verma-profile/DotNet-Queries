@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj": {}
+    "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj": {
+    "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\obj\\",
+        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj": {
+    "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj",
+        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj",
         "projectName": "ProductService",
-        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj",
+        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\ProductService\\ProductService.csproj",
         "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\ProductService\\obj\\",
+        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\ProductService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj"
+              "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj"
               }
             }
           }

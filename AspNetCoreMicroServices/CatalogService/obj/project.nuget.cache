@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmv81pWhCHmSod3ioO5M/kukrDobgAUbCrGqF+TgpWKLHidmjHlnTEtQnDLnONhv+srvdN5hywVYurQw+s5DIw==",
+  "dgSpecHash": "5G6nxJSkpxF7xdBDM9XhUk4Fw8Y5+3FDTldVmjaYgwzGgVoHIrvj8aKFwXLh0UL7bNtjURkV9sGVLrwIN5hj1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
+  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svdsk25\\.nuget\\packages\\consul\\1.6.10.4\\consul.1.6.10.4.nupkg.sha512",
     "C:\\Users\\svdsk25\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

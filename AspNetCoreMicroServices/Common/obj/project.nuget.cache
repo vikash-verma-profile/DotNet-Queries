@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgYobT5/xTNdYecX8nnviRLLKtwbFZfMopGQELpghfpy+XG6xjr3a/YFbCp6l8VOtIo0G0oyLjTjAGuwzL4Gkg==",
+  "dgSpecHash": "Lw1fY5WEqiYoFXra1HEK6uXI7vAh5UD0b3N127ZWZZkB6E2mzMpO3IagnIIIkm27ep6JbHhcG36X9TlopWExjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svdsk25\\.nuget\\packages\\consul\\1.6.10.4\\consul.1.6.10.4.nupkg.sha512",
     "C:\\Users\\svdsk25\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

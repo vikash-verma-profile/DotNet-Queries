@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hMY2iFiYpjzLxg5kYR+UNUwqdE4BKhshZZcH2fOxuQjF49aCcOotUHfEc/8DkIk/fhGOEinTBiedw0gEBqjVUQ==",
+  "dgSpecHash": "tuOIQfWvRl2L1FiskZNgcBRf6ERjGaEvriO4RExpzVf9o+bR1bDuynfkXsgPWWQQxKUlOyEhNoxYUyHsv+v9VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\Producer.csproj",
+  "projectFilePath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\Producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svdsk25\\.nuget\\packages\\automatonymous\\5.0.1\\automatonymous.5.0.1.nupkg.sha512",
     "C:\\Users\\svdsk25\\.nuget\\packages\\confluent.kafka\\1.5.0\\confluent.kafka.1.5.0.nupkg.sha512",

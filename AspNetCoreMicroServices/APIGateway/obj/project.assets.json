@@ -5684,11 +5684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\APIGateway\\APIGateway.csproj",
+      "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\APIGateway\\APIGateway.csproj",
       "projectName": "APIGateway",
-      "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\APIGateway\\APIGateway.csproj",
+      "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\APIGateway\\APIGateway.csproj",
       "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\APIGateway\\obj\\",
+      "outputPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\APIGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",

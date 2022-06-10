@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\Producer.csproj": {}
+    "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\Producer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\Producer.csproj": {
+    "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\Producer.csproj",
+        "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\Producer.csproj",
         "projectName": "Producer",
-        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\Producer.csproj",
+        "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\Producer.csproj",
         "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\KafkaWithMasTransit\\Producer\\obj\\",
+        "outputPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\KafkaWithMasTransit\\Producer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",

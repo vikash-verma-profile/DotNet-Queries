@@ -5697,11 +5697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
+      "projectUniqueName": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
       "projectName": "CatalogService",
-      "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
+      "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\CatalogService\\CatalogService.csproj",
       "packagesPath": "C:\\Users\\svdsk25\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\CatalogService\\obj\\",
+      "outputPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\CatalogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svdsk25\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5718,8 +5718,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\svdsk25\\Desktop\\Desktop-backup\\Dot-Net-Training\\AspNetCoreMicroServices\\Common\\Common.csproj"
+            "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\svdsk25\\Desktop\\Dot-Net-Quries\\AspNetCoreMicroServices\\Common\\Common.csproj"
             }
           }
         }
